@@ -115,3 +115,5 @@ Pages automatically.
 Please read [CONTRIBUTING.md](CONTRIBUTING.md). New resources must include a
 title, URL, category, why it matters, free/paid status, and last verified date.
 This project favors high-signal curation over exhaustive indexing.
+
+- [Chain.Love](https://github.com/Chain-Love/chain-love) — Open-source Web3 infrastructure database for RPCs, indexers, explorers, bridges, wallets and more across networks.
